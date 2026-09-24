@@ -1,0 +1,12 @@
+{
+    "duckdb.databases": [
+        {
+            "alias": "State_Level_Transportation_Finance",
+            "type": "file",
+            "path": "c:\\Projects\\Data_Analysis_Project\\State_Level_Transportation_Finance\\State_Level_Transportation_Finance.duckdb",
+            "readOnly": true,
+            "attached": true
+        }
+    ],
+    "duckdb.defaultDatabase": "State_Level_Transportation_Finance"
+}
