@@ -1,3 +1,7 @@
 State_Level_Transportation_Finance.csv
 State_Level_Transportation_Finance.duckdb
 State_Level_Transportation_Finance.duckdb.wal
+total_expenditure_covid_period.csv
+per_capita_expenditure_covid_period.csv
+per_capita_revenue_covid_period.csv
+total_revenue_covid_period.csv
